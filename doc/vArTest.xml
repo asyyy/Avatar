@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<opendata>
+	<request>http://www.data.rennes-metropole.fr/xml/?key=E5CM3VVBPGKGY2Y&amp;version=1.1&amp;cmd=getorganization</request>
+	<answer>
+		<status code="0" message="OK"/>
+		<data>
+			<organization>
+				<id>274</id>
+				<acronym/>
+				<name> Direction habitat social </name>
+				<description>Lieu d'enregistrement de la demande de logement social pour l'ensemble des bailleurs sociaux</description>
+				<minitel/>
+				<email>dhs@ville-rennes.fr</email>
+				<information>Métro Clémenceau.</information>
+				<web>metropole.rennes.fr</web>
+				<schedule>Lundi au vendredi, 9h à 12h30 et 13h30 à 17h. Fermé jeudi matin. Possibilité d'être reçu sur rendez-vous.</schedule>
+				<addresses>
+					<address>
+						<street>
+							<number>1</number>
+							<extension/>
+							<building/>
+							<name>Place de la Communauté</name>
+						</street>
+						<zipcode>35031</zipcode>
+						<pobox>CS 63126</pobox>
+						<city>Rennes</city>
+						<district>Bréquigny</district>
+						<phone>02 23 62 16 30</phone>
+						<phone/>
+						<fax/>
+						<latitude>48,09285128</latitude>
+						<longitude>-1,675734069</longitude>
+						<accessibility>2</accessibility>
+					</address>
+				</addresses>
+				<theme>195,544</theme>
+				<theme>195,544</theme>
+				<theme>1373,1437</theme>
+			</organization>
+			<organization>
+				<id>1987</id>
+				<acronym/>
+				<name>08AV1S</name>
+				<description>Sculpture d'Alain Clément, 2008, acier peint.
+Alain Clément, né à Neuilly-sur-Seine (92), 1941. Vit et travaille à Nîmes et Paris.</description>
+				<minitel/>
+				<email/>
+				<information/>
+				<web>www.metropole.rennes.fr</web>
+				<schedule/>
+				<addresses>
+					<address>
+						<street>
+							<number/>
+							<extension/>
+							<building/>
+							<name>Square Simone Morand</name>
+						</street>
+						<zipcode>35000</zipcode>
+						<pobox/>
+						<city>Rennes</city>
+						<district>Bourg-L'Evêque - La Touche - Moulin du Comte</district>
+						<phone/>
+						<phone/>
+						<fax/>
+						<latitude>48.1089334179</latitude>
+						<longitude>-1.7075375937</longitude>
+						<accessibility>1</accessibility>
+					</address>
+				</addresses>
+				<theme>190,1267</theme>
+			</organization>
+			<organization>
+				<id>1699</id>
+				<acronym/>
+				<name>08Victimes</name>
+				<description>Ecoute, information et orientation des victimes de toute violence.</description>
+				<minitel/>
+				<email/>
+				<information/>
+				<web>www.inavem.org</web>
+				<schedule>Référence uniquement téléphonique, 9h à 21h, 7jr/7.</schedule>
+				<addresses>
+					<address>
+						<street>
+							<number/>
+							<extension/>
+							<building/>
+							<name/>
+						</street>
+						<zipcode>35000</zipcode>
+						<pobox/>
+						<city>Rennes</city>
+						<district/>
+						<phone>08 84 28 46 37</phone>
+						<phone/>
+						<fax/>
+						<latitude>0.00000000</latitude>
+						<longitude/>
+						<accessibility>4</accessibility>
+					</address>
+				</addresses>
+				<theme>193,644</theme>
+				<receptiontype>2</receptiontype>
+			</organization>
+			<organization>
+				<id>2715</id>
+				<acronym/>
+				<name>1, 2, 3 soleil</name>
+				<description>Crèche inter-entreprises (38 places). Accueille les enfants de 2 mois 1/2 à 4 ans. Ouvert également aux particuliers.</description>
+				<minitel/>
+				<email>contact@creches123soleil.fr</email>
+				<information/>
+				<web>www.creches123soleil.fr/creches/creche-123-soleil-rennes/</web>
+				<schedule>Lundi au vendredi, 7h30 à 19h. Fermée  3 semaines en août et 1 semaine entre Noël et le nouvel an.</schedule>
+				<addresses>
+					<address>
+						<street>
+							<number>1</number>
+							<extension/>
+							<building>E</building>
+							<name>ALLEE ERMENGARDE D'ANJOU,ALLEE ERMENGARDE D'ANJOU</name>
+						</street>
+						<zipcode>35000</zipcode>
+						<pobox/>
+						<city>Rennes</city>
+						<district>Bourg-L'Evêque - La Touche - Moulin du Comte</district>
+						<phone>02 99 67 53 39</phone>
+						<phone/>
+						<fax/>
+						<latitude>48,11279397</latitude>
+						<longitude>-1,714074242</longitude>
+						<accessibility>4</accessibility>
+					</address>
+				</addresses>
+			</organization>
+			<organization>
+				<id>2682</id>
+				<acronym/>
+				<name>112 - urgence </name>
+				<description/>
+				<minitel/>
+				<email/>
+				<information/>
+				<web/>
+				<schedule/>
+				<addresses>
+					<address>
+						<street>
+							<number/>
+							<extension/>
+							<building/>
+							<name/>
+						</street>
+						<zipcode>35000</zipcode>
+						<pobox/>
+						<city>Rennes</city>
+						<district/>
+						<phone/>
+						<phone/>
+						<fax/>
+						<latitude/>
+						<longitude/>
+						<accessibility>4</accessibility>
+					</address>
+				</addresses>
+			</organization>
+			<organization>
+				<id>2573</id>
+				<acronym/>
+				<name>114 urgence pour personnes sourdes et mal-entendantes</name>
+				<description>Toute personne sourde ou malentendante, victime ou témoin d’une situation d’urgence qui nécessite l’intervention des services de secours, peut composer le 114. Numéro d’urgence national unique et gratuit, accessible dans un premier temps exclusivement par fax ou par SMS. Il ne reçoit pas les appels vocaux téléphoniques. Contacter le Samu en utilisant un formulaire par fax et disponible sur : www.chu-rennes.fr.
+</description>
+				<minitel/>
+				<email/>
+				<information/>
+				<web/>
+				<schedule>7jr/7, 24h/24.</schedule>
+				<addresses>
+					<address>
+						<street>
+							<number/>
+							<extension/>
+							<building/>
+							<name/>
+						</street>
+						<zipcode>35000</zipcode>
+						<pobox/>
+						<city>Rennes</city>
+						<district/>
+						<phone/>
+						<phone/>
+						<fax/>
+						<latitude>0.00000000</latitude>
+						<longitude/>
+						<accessibility>1</accessibility>
+					</address>
+				</addresses>
+				<theme>193,641</theme>
+				<theme>193,646</theme>
+				<theme>60,710</theme>
+				<theme>62,1176</theme>
+			</organization>
+			<organization>
+				<id>2440</id>
+				<acronym/>
+				<name>119 - Allô enfance en danger</name>
+				<description>Le Service national d'accueil téléphonique de l'enfance en danger accueille les appels de toute personne (adulte ou mineur) confrontée à une situation d’enfant en danger ou en risque de l’être.
+Il a deux missions :
+-une mission de prévention : accueillir les appels d’enfants en danger ou en risque de l’être, et de toute personne confrontée à ce type de situation, pour aider à leur dépistage et faciliter la protection des mineurs en danger.
+-une Mission de transmission : transmettre les informations préoccupantes concernant ces enfants aux services départementaux compétents en la matière : les Cellules de recueil des informations préoccupantes (CRIP).
+
+
+</description>
+				<minitel/>
+				<email>snated@allo119.gouv.fr</email>
+				<information/>
+				<web>www.allo119.gouv.fr</web>
+				<schedule>Le 119 est joignable 24h/24 de toute la France
+Appel  gratuit même depuis les téléphones mobiles. Le 119 n’apparait pas sur lerelevé de téléphone détaillé.
+Tous les appels arrivent sur une même plateforme téléphonique située à Paris.</schedule>
+				<addresses>
+					<address>
+						<street>
+							<number/>
+							<extension/>
+							<building/>
+							<name/>
+						</street>
+						<zipcode>35000</zipcode>
+						<pobox/>
+						<city>Rennes</city>
+						<district/>
+						<phone>11 9</phone>
+						<phone/>
+						<fax/>
+						<latitude>0.00000000</latitude>
+						<longitude/>
+						<accessibility>4</accessibility>
+					</address>
+				</addresses>
+				<theme>193,644</theme>
+				<receptiontype>2</receptiontype>
+			</organization>
+			<organization>
+				<id>2616</id>
+				<acronym/>
+				<name>20 minutes Rennes</name>
+				<description>Edition du journal gratuit 20 minutes, avec pages locales, distribué dans le métro, notamment.</description>
+				<minitel/>
+				<email>redaction.20minutes@apei-actu.com</email>
+				<information/>
+				<web>www.20minutes.fr</web>
+				<schedule/>
+				<addresses>
+					<address>
+						<street>
+							<number>40</number>
+							<extension/>
+							<building/>
+							<name>RUE DU PRE BOTTE</name>
+						</street>
+						<zipcode>35000</zipcode>
+						<pobox/>
+						<city>Rennes</city>
+						<district>Centre</district>
+						<phone>02 99 29 69 64</phone>
+						<phone>02 99 29 69 65</phone>
+						<fax/>
+						<latitude>48,10928931</latitude>
+						<longitude>-1,676810957</longitude>
+						<accessibility>4</accessibility>
+					</address>
+				</addresses>
+				<theme>191,923</theme>
+			</organization>
+			<organization>
+				<id>64</id>
+				<acronym/>
+				<name>40mcube</name>
+				<description>Espace d’exposition d’art contemporain, une structure de production d’œuvres, un lieu de résidences d’artistes et un bureau d’organisation de projets d’art contemporain. Outre les expositions inédites prenant place dans ses propres locaux ou dans des lieux partenaires, 40mcube présente des œuvres dans l’espace public et accompagne particuliers, entreprises, administrations et collectivités dans la commande d’œuvres d’art. La gratuité de l'entrée à 40mcube et la présence d'un médiateur permettent un accès convivial aux expositions pour tous les publics, novice ou connaisseur</description>
+				<minitel/>
+				<email>contact@40mcube.org</email>
+				<information/>
+				<web>www.40mcube.org</web>
+				<schedule>Mardi au samedi, 14h à 18h pendant la période des expositions.</schedule>
+				<addresses>
+					<address>
+						<street>
+							<number>48</number>
+							<extension/>
+							<building/>
+							<name>AVENUE SERGENT MAGINOT</name>
+						</street>
+						<zipcode>35000</zipcode>
+						<pobox/>
+						<city>Rennes</city>
+						<district>Thabor - Saint-Hélier -  Alphonse Guérin</district>
+						<phone>02 90 09 64 11</phone>
+						<phone/>
+						<fax/>
+						<latitude>48,10975851</latitude>
+						<longitude>-1,666092426</longitude>
+						<accessibility>6</accessibility>
+					</address>
+				</addresses>
+				<theme>190,910</theme>
+				<receptiontype>1</receptiontype>
+			</organization>
+			<organization>
+				<id>209</id>
+				<acronym/>
+				<name>7 Jours - Les Petites Affiches de Bretagne</name>
+				<description>Hebdomadaire d'informations générales, judiciaires et légales.</description>
+				<minitel/>
+				<email>7.jours@wanadoo.fr</email>
+				<information/>
+				<web>www.7jours.fr</web>
+				<schedule>Lundi au vendredi, 8h30 à 12h et 14h à 18h.</schedule>
+				<addresses>
+					<address>
+						<street>
+							<number>1</number>
+							<extension/>
+							<building/>
+							<name>RUE DE LA CHALOTAIS</name>
+						</street>
+						<zipcode>35103</zipcode>
+						<pobox>BP 80338</pobox>
+						<city>Rennes</city>
+						<district>Centre</district>
+						<phone>02 99 79 39 09</phone>
+						<phone/>
+						<fax/>
+						<latitude>48,10928143</latitude>
+						<longitude>-1,680446289</longitude>
+						<accessibility>4</accessibility>
+					</address>
+				</addresses>
+				<theme>191,923</theme>
+				<receptiontype>1</receptiontype>
+			</organization>
+			<organization>
+				<id>17</id>
+				<acronym/>
+				<name>A bras ouverts</name>
+				<description>Proposition de week-ends et séjours pour enfants et jeunes porteurs de tous types de handicap, en binôme avec des accompagnateurs bénévoles (étudiants et jeunes pros).</description>
+				<minitel/>
+				<email>abocontactaccompagnateur@gmail.com</email>
+				<information/>
+				<web>www.abrasouverts.asso.fr</web>
+				<schedule/>
+				<addresses>
+					<address>
+						<street>
+							<number/>
+							<extension/>
+							<building/>
+							<name/>
+						</street>
+						<zipcode>35</zipcode>
+						<pobox/>
+						<city/>
+						<district/>
+						<phone>09 82 46 60 83</phone>
+						<phone/>
+						<fax/>
+						<latitude/>
+						<longitude/>
+						<accessibility/>
+					</address>
+					<address>
+						<street>
+							<number/>
+							<extension/>
+							<building/>
+							<name/>
+						</street>
+						<zipcode>35</zipcode>
+						<pobox/>
+						<city/>
+						<district/>
+						<phone>09 82 46 60 83</phone>
+						<phone/>
+						<fax/>
+						<latitude/>
+						<longitude/>
+						<accessibility/>
+					</address>
+					<address>
+						<street>
+							<number/>
+							<extension/>
+							<building/>
+							<name/>
+						</street>
+						<zipcode>35</zipcode>
+						<pobox/>
+						<city/>
+						<district/>
+						<phone>09 82 46 60 83</phone>
+						<phone/>
+						<fax/>
+						<latitude/>
+						<longitude/>
+						<accessibility/>
+					</address>
+					<address>
+						<street>
+							<number/>
+							<extension/>
+							<building/>
+							<name/>
+						</street>
+						<zipcode>35</zipcode>
+						<pobox/>
+						<city/>
+						<district/>
+						<phone>09 82 46 60 83</phone>
+						<phone/>
+						<fax/>
+						<latitude/>
+						<longitude/>
+						<accessibility/>
+					</address>
+					<address>
+						<street>
+							<number/>
+							<extension/>
+							<building/>
+							<name/>
+						</street>
+						<zipcode>35</zipcode>
+						<pobox/>
+						<city/>
+						<district/>
+						<phone/>
+						<phone/>
+						<fax/>
+						<latitude/>
+						<longitude/>
+						<accessibility/>
+					</address>
+					<address>
+						<street>
+							<number/>
+							<extension/>
+							<building/>
+							<name/>
+						</street>
+						<zipcode>35000</zipcode>
+						<pobox/>
+						<city>Rennes</city>
+						<district/>
+						<phone>09 82 46 60 83</phone>
+						<phone/>
+						<fax/>
+						<latitude/>
+						<longitude/>
+						<accessibility/>
+					</address>
+				</addresses>
+				<theme>60,717</theme>
+			</organization>
+			<organization>
+				<id>2796</id>
+				<acronym> </acronym>
+				<name>A MA Pousse</name>
+				<description>Vente de légumes. Agriculture biologique.</description>
+				<minitel/>
+				<email>contact@amapousse.org</email>
+				<information/>
+				<web>www.amapousse.org</web>
+				<schedule>Vendredi, 18h à 19h30.</schedule>
+				<addresses>
+					<address>
+						<street>
+							<number>3</number>
+							<extension/>
+							<building/>
+							<name>Square Saint-Exupéry</name>
+						</street>
+						<zipcode>35000</zipcode>
+						<pobox/>
+						<city>Rennes</city>
+						<district>Maurepas - Bellangerais</district>
+						<phone>06 11 23 20 33</phone>
+						<phone/>
+						<fax/>
+						<latitude>48,12385066</latitude>
+						<longitude>-1,661972778</longitude>
+						<accessibility>1</accessibility>
+					</address>
+				</addresses>
+			</organization>
+			<organization>
+				<id>2720</id>
+				<acronym/>
+				<name>A2micile</name>
+				<description>Entreprise de services à la personne(maintien à domicile pour personnes agées, handicapées et dépendantes).</description>
+				<minitel/>
+				<email>rennes@a2micile.com</email>
+				<information/>
+				<web>www.a2micile.com</web>
+				<schedule>Lundi au vendredi, 9h à 12h et 14h à 18h. Permanence le mercredi.</schedule>
+				<addresses>
+					<address>
+						<street>
+							<number>1</number>
+							<extension/>
+							<building/>
+							<name>Rue du Petit Bé</name>
+						</street>
+						<zipcode>35170</zipcode>
+						<pobox/>
+						<city>Bruz</city>
+						<district/>
+						<phone>06 58 80 67 35</phone>
+						<phone/>
+						<fax/>
+						<latitude>48.0301671075</latitude>
+						<longitude>-1.7599978898</longitude>
+						<accessibility>4</accessibility>
+					</address>
+				</addresses>
+			</organization>
+			<organization>
+				<id>2370</id>
+				<acronym/>
+				<name>Accrobranche</name>
+				<description>12 parcours dans les arbres attendent les acrobates à partir de 2 ans. Ponts de singe, slackline, tyroliennes au dessus du lac, base jump, saut de tarzan. Tarifs : de 5 à 20€.
+Nouveautés 2016 : parcours et ateliers supplémentaires et nouvel espace d'accueil.
+
+</description>
+				<minitel/>
+				<email>gayeulles@foretadrenaline.com</email>
+				<information>Situé à le base de loisirs des Gayeulles et en face du camping des Gayeulles..</information>
+				<web>www.foretadrenaline.com</web>
+				<schedule>Mercredi, week-ends, jours fériés et vacances scolaires, 14h à 19h, de Pâques à la Toussaint. Dès 10h durant les vacances d’été. Sur RDV en semaine pour les groupes.</schedule>
+				<addresses>
+					<address>
+						<street>
+							<number/>
+							<extension/>
+							<building/>
+							<name>RUE DU PROFESSEUR MAURICE AUDIN</name>
+						</street>
+						<zipcode>35000</zipcode>
+						<pobox/>
+						<city>Rennes</city>
+						<district>Maurepas - Bellangerais</district>
+						<phone>02 90 84 00 20</phone>
+						<phone/>
+						<fax/>
+						<latitude>48,13560256</latitude>
+						<longitude>-1,646080539</longitude>
+						<accessibility>4</accessibility>
+					</address>
+				</addresses>
+				<theme>63,145</theme>
+			</organization>
+			<organization>
+				<id>2542</id>
+				<acronym/>
+				<name>Accrobranches</name>
+				<description>Base de loisirs au village Oxylane, parc thématique d'escalade, d'accrobranche, de jeux de challenge au sol et d'énigmes, dès 5 ans.</description>
+				<minitel/>
+				<email>betton@foretadrenaline.com</email>
+				<information>Situé derrière le Décathlon.</information>
+				<web>www.defi-adrenaline.com</web>
+				<schedule>Mercredi, week-ends, jours fériés et vacances scolaires, 14h à 19h, de Pâques à la Toussaint. Sur RDV en semaine pour groupes (+30 personnes).</schedule>
+				<addresses>
+					<address>
+						<street>
+							<number/>
+							<extension/>
+							<building/>
+							<name>Lieu-dit Pluvignon</name>
+						</street>
+						<zipcode>35830</zipcode>
+						<pobox/>
+						<city>Betton</city>
+						<district/>
+						<phone>02 90 84 00 20</phone>
+						<phone/>
+						<fax/>
+						<latitude>48.161276</latitude>
+						<longitude>-1.635712</longitude>
+						<accessibility>4</accessibility>
+					</address>
+				</addresses>
+				<theme>63,145</theme>
+			</organization>
+			<organization>
+				<id>2913</id>
+				<acronym/>
+				<name>Accroche toi au pinceau</name>
+				<description>Atelier d'artistes et galerie d'exposition proposant des cours de peinture et d'arts plastiques.Pour enfants débutants ou confirmés, initiation et  accompagnement dans l'apprentissage des différentes techniques plastiques comme le dessin et la peinture.
+</description>
+				<minitel/>
+				<email/>
+				<information/>
+				<web/>
+				<schedule/>
+				<addresses>
+					<address>
+						<street>
+							<number>80</number>
+							<extension/>
+							<building/>
+							<name>Canal Saint-Martin</name>
+						</street>
+						<zipcode>35000</zipcode>
+						<pobox/>
+						<city>Rennes</city>
+						<district>Saint-Martin</district>
+						<phone>06 62 27 85 99</phone>
+						<phone/>
+						<fax/>
+						<latitude>48,1240952</latitude>
+						<longitude>-1,674586743</longitude>
+						<accessibility/>
+					</address>
+				</addresses>
+			</organization>
+			<organization>
+				<id>1614</id>
+				<acronym/>
+				<name>Accueil à la maison</name>
+				<description>Pour tout public l'association propose des chambres chez l'habitant à la nuitée, à la semaine, au mois.Attestation APL.</description>
+				<minitel/>
+				<email>accueilalamaison@hotmail.fr</email>
+				<information/>
+				<web>www.accueilalamaison.fr</web>
+				<schedule>Permanence : mardi et jeudi matin à la Maison Internationale de Rennes, 9h30 à 12h30.
+Accueil téléphonique du lundi au vendredi,9h à 18h.Samedi, 9h30 à 12h30.
+Réservation 7jr/7 par mail ou sur le site internet onglet réservation.
+</schedule>
+				<addresses>
+					<address>
+						<street>
+							<number>12</number>
+							<extension/>
+							<building/>
+							<name>RUE DU GRAND CORDEL,RUE DU GRAND CORDEL</name>
+						</street>
+						<zipcode>35000</zipcode>
+						<pobox/>
+						<city>Rennes</city>
+						<district>Jeanne d'Arc - Longs Champs - Beaulieu</district>
+						<phone>02 99 55 70 59</phone>
+						<phone>06 67 07 55 54</phone>
+						<fax/>
+						<latitude>48,12196907</latitude>
+						<longitude>-1,66079073</longitude>
+						<accessibility>7</accessibility>
+					</address>
+				</addresses>
+				<theme>195,547</theme>
+			</organization>
+			<organization>
+				<id>579</id>
+				<acronym>CPAM</acronym>
+				<name>Accueil CPAM / Maurepas</name>
+				<description>Pour un dossier complexe (demande de CMU...) ou en cas de situation difficile (longue maladie, handicap, perte d'un proche), la Cpam propose un accueil personnalisé sur rendez-vous.
+Prendre rendez-vous au 36 46 (prix d’un appel local depuis un poste fixe sauf surcoût imposé par certains opérateurs).
+Une borne multi-services est également à disposition pour les démarches les plus courantes : mise à jour de la carte vitale, impression d’attestation, consultation de remboursements…
+</description>
+				<minitel/>
+				<email/>
+				<information/>
+				<web>www.ameli.fr</web>
+				<schedule>Accueil sur rendez-vous du lundi au vendredi, 8h30 à 17h.
+Accueil sur rendez-vous le premier jeudi du mois, 10h30 à 17h.
+</schedule>
+				<addresses>
+					<address>
+						<street>
+							<number>11</number>
+							<extension/>
+							<building>B</building>
+							<name>PLACE DU GROS CHENE</name>
+						</street>
+						<zipcode>35706</zipcode>
+						<pobox/>
+						<city>Rennes</city>
+						<district>Maurepas - Bellangerais</district>
+						<phone>36 46</phone>
+						<phone/>
+						<fax/>
+						<latitude>48,12655857</latitude>
+						<longitude>-1,663522945</longitude>
+						<accessibility>1</accessibility>
+					</address>
+				</addresses>
+				<theme>620,621</theme>
+				<receptiontype>1</receptiontype>
+				<receptiontype>2</receptiontype>
+			</organization>
+			<organization>
+				<id>48</id>
+				<acronym>CPAM</acronym>
+				<name>Accueil CPAM / Rennes siège</name>
+				<description>Pour un dossier complexe (demande de CMU...) ou en cas de situation difficile (longue maladie, handicap, perte d'un proche), la Cpam propose un accueil personnalisé sur rendez-vous.
+Prendre rendez-vous au 36 46 (prix d’un appel local depuis un poste fixe sauf surcoût imposé par certains opérateurs).
+Une borne multi-services est également à disposition pour les démarches les plus courantes : mise à jour de la carte vitale, impression d’attestation, consultation de remboursements…
+</description>
+				<minitel/>
+				<email/>
+				<information/>
+				<web>www.ameli.fr</web>
+				<schedule>Lundi au vendredi, 8h30 à 17h. Ouverture à 10h30 le premier jeudi de chaque mois.
+Accueil sur rendez-vous, lundi au vendredi, 8h30 à 17h.
+Accueil sur rendez-vous le premier jeudi du mois,10h30 à 17h.
+</schedule>
+				<addresses>
+					<address>
+						<street>
+							<number>7</number>
+							<extension/>
+							<building/>
+							<name>COURS DES ALLIES</name>
+						</street>
+						<zipcode>35024</zipcode>
+						<pobox/>
+						<city>Rennes</city>
+						<district>Centre</district>
+						<phone>36 46</phone>
+						<phone/>
+						<fax/>
+						<latitude>48,10588536</latitude>
+						<longitude>-1,674751621</longitude>
+						<accessibility>1</accessibility>
+					</address>
+				</addresses>
+				<theme>50,80</theme>
+				<theme>620,621</theme>
+				<theme>59,671</theme>
+				<receptiontype>1</receptiontype>
+				<receptiontype>2</receptiontype>
+			</organization>
+			<organization>
+				<id>1361</id>
+				<acronym>CPAM</acronym>
+				<name>Accueil CPAM / Torigné</name>
+				<description>Pour un dossier complexe (demande de CMU...) ou en cas de situation difficile (longue maladie, handicap, perte d'un proche), la Cpam propose un accueil personnalisé sur rendez-vous.
+Prendre rendez-vous au 36 46 (prix d’un appel local depuis un poste fixe sauf surcoût imposé par certains opérateurs).
+Une borne multi-services est également à disposition pour les démarches les plus courantes : mise à jour de la carte vitale, impression d’attestation, consultation de remboursements…
+</description>
+				<minitel/>
+				<email/>
+				<information/>
+				<web>www.ameli.fr</web>
+				<schedule>Lundi au vendredi, 8h30 à 17h. Ouverture à 10h30 le premier jeudi de chaque mois.</schedule>
+				<addresses>
+					<address>
+						<street>
+							<number>8</number>
+							<extension/>
+							<building/>
+							<name>PLACE DE TORIGNE</name>
+						</street>
+						<zipcode>35055</zipcode>
+						<pobox/>
+						<city>Rennes</city>
+						<district>Le Blosne</district>
+						<phone>36 46</phone>
+						<phone/>
+						<fax/>
+						<latitude>48,08529881</latitude>
+						<longitude>-1,657022675</longitude>
+						<accessibility>1</accessibility>
+					</address>
+				</addresses>
+				<theme>620,621</theme>
+				<receptiontype>1</receptiontype>
+				<receptiontype>2</receptiontype>
+			</organization>
+			<organization>
+				<id>2594</id>
+				<acronym>CPAM</acronym>
+				<name>Accueil CPAM / Villejean</name>
+				<description>Pour un dossier complexe (demande de CMU...) ou en cas de situation difficile (longue maladie, handicap, perte d'un proche), la Cpam propose un accueil personnalisé sur rendez-vous.
+Prendre rendez-vous au 36 46 (prix d’un appel local depuis un poste fixe sauf surcoût imposé par certains opérateurs).
+Une borne multi-services est également à disposition pour les démarches les plus courantes : mise à jour de la carte vitale, impression d’attestation, consultation de remboursements…
+</description>
+				<minitel/>
+				<email/>
+				<information/>
+				<web>www.ameli.fr</web>
+				<schedule>Lundi au vendredi, 8h30 à 12h30 et 14h à 17h. Ouverture à 10h30 le premier jeudi de chaque mois.</schedule>
+				<addresses>
+					<address>
+						<street>
+							<number>35</number>
+							<extension/>
+							<building/>
+							<name>COURS PRESIDENT JOHN FITZGERALD KENNEDY</name>
+						</street>
+						<zipcode>35238</zipcode>
+						<pobox/>
+						<city>Rennes</city>
+						<district>Villejean - Beauregard</district>
+						<phone>36 46</phone>
+						<phone/>
+						<fax/>
+						<latitude>48,12102729</latitude>
+						<longitude>-1,709994798</longitude>
+						<accessibility>1</accessibility>
+					</address>
+				</addresses>
+				<theme>620,621</theme>
+			</organization>
+		</data>
+	</answer>
+</opendata>

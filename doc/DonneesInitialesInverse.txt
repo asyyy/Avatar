@@ -1,0 +1,7 @@
+ Place de la Mairie;Mairie de Rennes
+ 2, Rue du Pré de Bris;Théâtre La Paillette
+ 1, Rue Saint-Hélier;Théâtre National de Bretagne
+ 19, Place de la Gare;Gare SNCF
+ 1 Square d'Alsace;Piscine Villejean
+ 15 Avenue des Gayeulles;Piscine Gayeulles
+ testAdr;testNom

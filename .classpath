@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry excluding="UI/|machine/DataBase/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/machine/DataBase"/>
+	<classpathentry kind="src" path="tests"/>
+	<classpathentry exported="true" kind="lib" path="lib/client.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/scala-swing_2.12.0-M5-2.0.0-M2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/scala-swing_2.12.0-M5-2.0.0-M2-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/scala-xml_2.12-1.0.6-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/scala-xml_2.12-1.0.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/htmlcleaner-2.18.jar"/>
+	<classpathentry kind="lib" path="lib/scala-parser-combinators_2.12.0-RC2-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/icu4j-54.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/marytts-client-5.1.2-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="lib/marytts-lang-de-5.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/marytts-lang-en-5.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/marytts-lang-fr-5.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/marytts-lang-it-5.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/marytts-lang-ru-5.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/marytts-lang-sv-5.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/marytts-lang-te-5.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/marytts-lang-tr-5.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/marytts-runtime-5.1.2-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="lib/voice-cmu-slt-hsmm-5.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/voice-dfki-pavoque-neutral-hsmm-5.1.jar"/>
+	<classpathentry kind="lib" path="lib/voice-istc-lucia-hsmm-5.1.jar"/>
+	<classpathentry kind="lib" path="lib/voice-upmc-pierre-hsmm-5.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

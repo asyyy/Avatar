@@ -1,0 +1,33 @@
+/* Pour afficher le diagramme UML:  
+   Window>Open view>Other>Plantuml
+   
+   La doc: http://plantuml.com/class-diagram
+*/
+
+@startuml
+ class Vehicule{
+	modele:String
+	demarrer():Unit
+}
+ class Conducteur{
+	 nom:String
+	 contacter():Unit
+ }
+ class Camion{
+	 nbEssieux:Int
+	 atteler(r:Remorque)
+ }
+ class Roue{
+	 diametre:Long
+	 gonfler():Unit
+ }
+ interface Transporteur{
+   Capacite: Int
+   ajouter(p:Passager)
+ }
+ Transporteur <|.. Vehicule
+ Vehicule -- Conducteur
+ Vehicule <|-- Camion 
+ Vehicule --> Roue
+ 
+ @enduml
